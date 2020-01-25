@@ -1,22 +1,31 @@
-/* programme qui affiche le message « Kila Poze Korek ?»
-   auteur : Tinky Winky
-   date : 27/08/2019
-*/
+/**
+ * 
+ */
+package myPackage;
 
+/**
+ * @author didier
+ *
+ */
 
-public class kilapoze {
+public class hello {
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// affiche le message Ki la poze 
 	    
 		System.out.println("KILAPOZE KOREK ?");
-		
-		// Test EGIT on modifie le code initial
-		
+				
+		// EGIT : 1ere modif du code initial
+				
 		System.out.println("OUI ! DANS BIEN EK EGIT");
-		
+				
 		monAffichage obj = new monAffichage();
 		obj.afficher();
+		
+		
 	}
 
 }
