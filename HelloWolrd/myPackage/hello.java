@@ -27,5 +27,6 @@ public class hello {
 		obj.afficher();
 		
 		System.out.println("\n Version 2 poiur GitHub");
+		System.out.println("\n Version avec modification sur GitHub directement");
 	}
 }
