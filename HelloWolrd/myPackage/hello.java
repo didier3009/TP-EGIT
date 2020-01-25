@@ -26,7 +26,6 @@ public class hello {
 		monAffichage obj = new monAffichage();
 		obj.afficher();
 		
-		
 	}
 
 }
