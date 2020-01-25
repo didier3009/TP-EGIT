@@ -25,5 +25,7 @@ public class hello {
 				
 		monAffichage obj = new monAffichage();
 		obj.afficher();
+		
+		System.out.println("\n Version 2 poiur GitHub");
 	}
 }
