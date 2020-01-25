@@ -11,8 +11,9 @@ package myPackage;
 public class hello {
 
 	/**
-	 * @param args
+	 * Simple programme d'affichage d'une chaine
 	 */
+	
 	public static void main(String[] args) {
 		// affiche le message Ki la poze 
 	    
